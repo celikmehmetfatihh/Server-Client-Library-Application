@@ -1,0 +1,11 @@
+(bookID;title;authorName;pricePerDay;copiesAvailable):
+1;A Tale of Two Cities;C.Dickens;2;3
+2;The Little Prince;A.Exupery;2.5;2
+3;Harry Potter;J.K.Rowling;2;5
+4;And Then The Were None;A.Christie;2;2
+5;Dream of the Red Chamber;C.Xueqin;1.5;1
+6;The Hobbit;J.Tolkien;3;4
+7;She: A History of Adventure;H.Haggard;2.5;2
+8;Vardi Wala Gunda;V.Sharma;2;2
+9;The Da Vinci Code;D.Brown;3;3
+10;The Alchemist;P.Coelho;1;2

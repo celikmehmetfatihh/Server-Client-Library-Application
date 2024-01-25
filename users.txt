@@ -1,0 +1,7 @@
+(username;password;role):
+greg;b123;librarian
+dave;k343;librarian
+simon;7684;manager
+ata;a123;librarian
+fatih;f123;librarian
+sukru;s123;manager

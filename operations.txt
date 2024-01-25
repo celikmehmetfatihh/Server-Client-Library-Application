@@ -1,0 +1,2 @@
+(rent;librarianName;clientsUsername;date;itemID;itemID... or
+return;librarianName;clientsUsername;date;cost;itemID;itemID...)
